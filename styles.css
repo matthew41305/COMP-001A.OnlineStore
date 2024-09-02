@@ -1,0 +1,54 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Set beige background for all pages */
+body {
+    background-color: #f5f5dc; /* Beige color */
+}
+
+/* Header styles */
+header {
+    background-color: #fff; /* White background for header */
+    padding: 10px;
+    text-align: center;
+}
+
+header img {
+    max-width: 100px; /*logo size*/
+}
+
+/* Navigation styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000; /* Black color links */
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #fff; /* White background for footer */
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
